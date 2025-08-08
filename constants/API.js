@@ -1,0 +1,1 @@
+export const API_URL = "https://moneywise-backend-e79g.onrender.com/api";
