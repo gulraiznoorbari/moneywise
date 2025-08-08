@@ -1,1 +1,1 @@
-export const API_URL = "https://moneywise-backend-e79g.onrender.com/api";
+export const API_URL = process.env.EXPO_PUBLIC_API_URL;
